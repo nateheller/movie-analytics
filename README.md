@@ -11,11 +11,11 @@ A data analytics and machine learning project examining relationships between di
 - Sentiment analysis of movie descriptions did not significantly predict critic scores.
 
 ## Research Questions
-Do female-directed films receive different critic scores?<br>
-Do audience ratings differ?<br>
-Are there budget differences?<br>
-Does director gender influence ROI?<br>
-Can sentiment analysis of movie descriptions predict critic reception?<br>
+- Do female-directed films receive different critic scores?<br>
+- Do audience ratings differ?<br>
+- Are there budget differences?<br>
+- Does director gender influence ROI?<br>
+- Can sentiment analysis of movie descriptions predict critic reception?<br>
 
 ## Tools Used
 - Python
